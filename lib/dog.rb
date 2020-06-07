@@ -1,7 +1,7 @@
 class  Dog
 
   def  bark
-  print "Woof"
+  puts  "Woof"
 end
 
 
